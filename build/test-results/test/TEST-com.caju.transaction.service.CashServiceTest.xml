@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.caju.transaction.service.CashServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T02:36:42" hostname="DESKTOP-CPDV09H" time="0.093">
+<testsuite name="com.caju.transaction.service.CashServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-12T02:18:15" hostname="DESKTOP-CPDV09H" time="0.008">
   <properties/>
-  <testcase name="saldo suficiente de CASH - Aprovar transação()" classname="com.caju.transaction.service.CashServiceTest" time="0.075"/>
-  <testcase name="saldo insuficiente de CASH - Rejeitar transação()" classname="com.caju.transaction.service.CashServiceTest" time="0.013"/>
+  <testcase name="saldo suficiente de CASH - Aprovar transação()" classname="com.caju.transaction.service.CashServiceTest" time="0.002"/>
+  <testcase name="saldo insuficiente de CASH - Rejeitar transação()" classname="com.caju.transaction.service.CashServiceTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

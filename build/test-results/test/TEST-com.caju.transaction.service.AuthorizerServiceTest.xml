@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.caju.transaction.service.AuthorizerServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-12T02:18:15" hostname="DESKTOP-CPDV09H" time="0.058">
+  <properties/>
+  <testcase name="rejeita autorização de transação de categoria FOOD()" classname="com.caju.transaction.service.AuthorizerServiceTest" time="0.027"/>
+  <testcase name="aprova autorização de transação de categoria CASH()" classname="com.caju.transaction.service.AuthorizerServiceTest" time="0.013"/>
+  <testcase name="aprova autorização de transação de categoria FOOD()" classname="com.caju.transaction.service.AuthorizerServiceTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
